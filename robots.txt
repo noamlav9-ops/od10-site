@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://noamlav9-ops.github.io/od10-site/sitemap.xml
